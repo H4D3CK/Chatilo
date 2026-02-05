@@ -1,0 +1,14 @@
+{
+  "embeds": [
+    {
+      "title": "🧇 Aviso",
+      "description": "Embed criado no **Discohook**",
+      "color": 15844367,
+      "fields": [
+        { "name": "Campo 1", "value": "Texto", "inline": true },
+        { "name": "Campo 2", "value": "Texto", "inline": true }
+      ],
+      "footer": { "text": "Waffle Bot" }
+    }
+  ]
+}

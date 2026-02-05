@@ -1,0 +1,14 @@
+{
+  "flags": 32768,
+  "components": [
+    {
+      "type": 17,
+      "components": [
+        {
+          "type": 10,
+          "content": "# Castigo Aplicado\n> 👤 Usuário: Teste\n> 🛡️ Staff: Admin\n> ⏱️ Tempo: 10m\n> 📝 Motivo: Teste"
+        }
+      ]
+    }
+  ]
+}

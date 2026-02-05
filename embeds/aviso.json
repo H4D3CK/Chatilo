@@ -1,0 +1,45 @@
+{
+  "embeds": [
+    {
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "description": "Aliquam massa mi, iaculis ut mauris eu, interdum molestie augue.",
+      "fields": [
+        {
+          "name": "<@&1464928590972850186>",
+          "value": "Ut malesuada ipsum at neque porttitor, nec egestas ex fringilla.",
+          "inline": true
+        },
+        {
+          "name": "<@&1464928593535701065>",
+          "value": "Donec pellentesque velit vitae ligula congue, sit amet condimentum metus consequat.",
+          "inline": true
+        },
+        {
+          "name": "<@&1464928596089897106>",
+          "value": "Ut at lorem eu purus ultricies accumsan vel sit amet ipsum.",
+          "inline": true
+        },
+        {
+          "name": "<@&1464928598363340998>",
+          "value": "Cras vehicula et enim id congue.",
+          "inline": true
+        },
+        {
+          "name": "<@&1464929307573879049>",
+          "value": "Nunc non tincidunt neque. Maecenas et velit a magna mattis tincidunt.",
+          "inline": true
+        },
+        {
+          "name": "<@&1468961326549303528>",
+          "value": "Nam sed metus quam. Aenean sagittis, ex ac rhoncus iaculis, turpis mauris ultrices diam, sollicitudin vehicula metus est ut massa.",
+          "inline": true
+        }
+      ],
+      "image": {
+        "url": "https://i.imgur.com/At4Ra4z.png"
+      },
+      "timestamp": "2026-02-02T13:26:03.787Z"
+    }
+  ],
+  "components": []
+}
